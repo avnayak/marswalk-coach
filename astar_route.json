@@ -1,0 +1,56 @@
+{
+ "project": "Marswalk Coach \u2014 team spacebuzz",
+ "planner": "Weighted A* (weight 1.5) on a MOLA cost grid, line-of-sight smoothed",
+ "start": {
+  "lon_e": 137.4417,
+  "lat": -4.5895
+ },
+ "goal": {
+  "lon_e": 137.793,
+  "lat": -4.981
+ },
+ "total_distance_km": 31.0,
+ "total_climb_m": 4993,
+ "waypoint_count": 2,
+ "raw_cell_count": 74,
+ "danger_zones_crossed": [],
+ "closest_approach_km": {
+  "Stop 1 (boxwork)": 5.22,
+  "Stop 2 (high ground)": 0.73
+ },
+ "score": {
+  "danger_points": 2,
+  "length_class": "short",
+  "length_points": 2,
+  "climb_points": 1,
+  "total_points": 5,
+  "hand_drawn_routes": {
+   "A": 4,
+   "B": 2,
+   "C": 4
+  }
+ },
+ "obstacle_positions_approximate": {
+  "OBS-01 crater": {
+   "lon_e": 137.7418,
+   "lat": -5.6672
+  },
+  "OBS-02 rough ground": {
+   "lon_e": 138.1057,
+   "lat": -5.141
+  }
+ },
+ "note": "Waypoints are smoothed A* path cells. Danger-spot positions are approximate (see astar_route.py). Slope limits: over 25 deg blocked, 12-25 deg costs extra (JPL rover limits).",
+ "waypoints": [
+  {
+   "lon_e": 137.4414,
+   "lat": -4.5898,
+   "elevation_m": -4503
+  },
+  {
+   "lon_e": 137.793,
+   "lat": -4.9805,
+   "elevation_m": 488
+  }
+ ]
+}
