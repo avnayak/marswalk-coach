@@ -1,0 +1,345 @@
+{
+ "project": "Marswalk Coach \u2014 team spacebuzz",
+ "planner": "Field D* (Ferguson & Stentz 2006) on a MOLA cost grid, three legs through the science stops",
+ "learned_obstacles_applied": [],
+ "learned_this_run": "OBS-04",
+ "legs": [
+  {
+   "name": "START to Boxwork",
+   "from": {
+    "lon_e": 137.4417,
+    "lat": -4.5895
+   },
+   "to": {
+    "lon_e": 137.5308,
+    "lat": -4.7197
+   },
+   "distance_km": 9.4,
+   "climb_m": 1052,
+   "waypoint_count": 9,
+   "raw_waypoint_count": 27,
+   "states_expanded": 777,
+   "waypoints": [
+    {
+     "lon_e": 137.4414,
+     "lat": -4.5898,
+     "elevation_m": -4503
+    },
+    {
+     "lon_e": 137.4625,
+     "lat": -4.625,
+     "elevation_m": -4491
+    },
+    {
+     "lon_e": 137.4844,
+     "lat": -4.6612,
+     "elevation_m": -4289
+    },
+    {
+     "lon_e": 137.4861,
+     "lat": -4.6641,
+     "elevation_m": -4241
+    },
+    {
+     "lon_e": 137.4961,
+     "lat": -4.6797,
+     "elevation_m": -4064
+    },
+    {
+     "lon_e": 137.5005,
+     "lat": -4.6875,
+     "elevation_m": -3947
+    },
+    {
+     "lon_e": 137.5059,
+     "lat": -4.6953,
+     "elevation_m": -3872
+    },
+    {
+     "lon_e": 137.5156,
+     "lat": -4.7109,
+     "elevation_m": -3601
+    },
+    {
+     "lon_e": 137.5273,
+     "lat": -4.7227,
+     "elevation_m": -3455
+    }
+   ]
+  },
+  {
+   "name": "Boxwork to High ground",
+   "from": {
+    "lon_e": 137.5308,
+    "lat": -4.7197
+   },
+   "to": {
+    "lon_e": 137.75,
+    "lat": -5.0
+   },
+   "distance_km": 22.7,
+   "climb_m": 3726,
+   "waypoint_count": 34,
+   "raw_waypoint_count": 54,
+   "states_expanded": 9195,
+   "waypoints": [
+    {
+     "lon_e": 137.5273,
+     "lat": -4.7227,
+     "elevation_m": -3455
+    },
+    {
+     "lon_e": 137.5266,
+     "lat": -4.7344,
+     "elevation_m": -3256
+    },
+    {
+     "lon_e": 137.5271,
+     "lat": -4.7422,
+     "elevation_m": -3140
+    },
+    {
+     "lon_e": 137.5295,
+     "lat": -4.7578,
+     "elevation_m": -2912
+    },
+    {
+     "lon_e": 137.5312,
+     "lat": -4.7656,
+     "elevation_m": -2697
+    },
+    {
+     "lon_e": 137.5312,
+     "lat": -4.7734,
+     "elevation_m": -2581
+    },
+    {
+     "lon_e": 137.5342,
+     "lat": -4.7812,
+     "elevation_m": -2479
+    },
+    {
+     "lon_e": 137.5376,
+     "lat": -4.7891,
+     "elevation_m": -2385
+    },
+    {
+     "lon_e": 137.5391,
+     "lat": -4.7947,
+     "elevation_m": -2301
+    },
+    {
+     "lon_e": 137.5412,
+     "lat": -4.8047,
+     "elevation_m": -2103
+    },
+    {
+     "lon_e": 137.5433,
+     "lat": -4.8125,
+     "elevation_m": -2033
+    },
+    {
+     "lon_e": 137.5547,
+     "lat": -4.8359,
+     "elevation_m": -1840
+    },
+    {
+     "lon_e": 137.5589,
+     "lat": -4.8438,
+     "elevation_m": -1834
+    },
+    {
+     "lon_e": 137.5625,
+     "lat": -4.8516,
+     "elevation_m": -1737
+    },
+    {
+     "lon_e": 137.5781,
+     "lat": -4.8672,
+     "elevation_m": -1488
+    },
+    {
+     "lon_e": 137.5851,
+     "lat": -4.875,
+     "elevation_m": -1481
+    },
+    {
+     "lon_e": 137.5859,
+     "lat": -4.8758,
+     "elevation_m": -1378
+    },
+    {
+     "lon_e": 137.5938,
+     "lat": -4.882,
+     "elevation_m": -1258
+    },
+    {
+     "lon_e": 137.5949,
+     "lat": -4.8828,
+     "elevation_m": -1254
+    },
+    {
+     "lon_e": 137.605,
+     "lat": -4.8906,
+     "elevation_m": -1116
+    },
+    {
+     "lon_e": 137.6172,
+     "lat": -4.8984,
+     "elevation_m": -868
+    },
+    {
+     "lon_e": 137.625,
+     "lat": -4.903,
+     "elevation_m": -761
+    },
+    {
+     "lon_e": 137.6289,
+     "lat": -4.9062,
+     "elevation_m": -754
+    },
+    {
+     "lon_e": 137.6328,
+     "lat": -4.91,
+     "elevation_m": -701
+    },
+    {
+     "lon_e": 137.6347,
+     "lat": -4.9141,
+     "elevation_m": -709
+    },
+    {
+     "lon_e": 137.6406,
+     "lat": -4.9219,
+     "elevation_m": -597
+    },
+    {
+     "lon_e": 137.6557,
+     "lat": -4.9297,
+     "elevation_m": -462
+    },
+    {
+     "lon_e": 137.6562,
+     "lat": -4.9298,
+     "elevation_m": -350
+    },
+    {
+     "lon_e": 137.6719,
+     "lat": -4.9352,
+     "elevation_m": -136
+    },
+    {
+     "lon_e": 137.6797,
+     "lat": -4.9375,
+     "elevation_m": -40
+    },
+    {
+     "lon_e": 137.7109,
+     "lat": -4.9621,
+     "elevation_m": 73
+    },
+    {
+     "lon_e": 137.7188,
+     "lat": -4.9688,
+     "elevation_m": 121
+    },
+    {
+     "lon_e": 137.75,
+     "lat": -5.0,
+     "elevation_m": 263
+    },
+    {
+     "lon_e": 137.7539,
+     "lat": -5.0039,
+     "elevation_m": 263
+    }
+   ]
+  },
+  {
+   "name": "High ground to Mount Sharp",
+   "from": {
+    "lon_e": 137.75,
+    "lat": -5.0
+   },
+   "to": {
+    "lon_e": 137.793,
+    "lat": -4.981
+   },
+   "distance_km": 3.0,
+   "climb_m": 225,
+   "waypoint_count": 7,
+   "raw_waypoint_count": 10,
+   "states_expanded": 106,
+   "waypoints": [
+    {
+     "lon_e": 137.7539,
+     "lat": -5.0039,
+     "elevation_m": 263
+    },
+    {
+     "lon_e": 137.7578,
+     "lat": -5.0011,
+     "elevation_m": 313
+    },
+    {
+     "lon_e": 137.7656,
+     "lat": -4.996,
+     "elevation_m": 378
+    },
+    {
+     "lon_e": 137.7734,
+     "lat": -4.9914,
+     "elevation_m": 449
+    },
+    {
+     "lon_e": 137.7812,
+     "lat": -4.9844,
+     "elevation_m": 467
+    },
+    {
+     "lon_e": 137.7891,
+     "lat": -4.9766,
+     "elevation_m": 488
+    },
+    {
+     "lon_e": 137.793,
+     "lat": -4.9805,
+     "elevation_m": 488
+    }
+   ]
+  }
+ ],
+ "total_distance_km": 35.0,
+ "total_climb_m": 5003,
+ "danger_zones_crossed": [],
+ "score": {
+  "danger_points": 2,
+  "length_class": "medium",
+  "length_points": 1,
+  "climb_points": 0,
+  "total_points": 3,
+  "comparison": {
+   "Route A (hand-drawn, via the stops)": 4,
+   "Route B (straight line)": 2,
+   "Route C (wide detour)": 4,
+   "A* (straight line, skips the stops)": 5
+  }
+ },
+ "replan_demo": {
+  "leg": "Boxwork to High ground",
+  "new_danger": "rock field, 1 km radius, centred at 137.5885E, 4.8779S (45% along the leg)",
+  "cells_blocked": 13,
+  "original_leg_distance_km": 22.7,
+  "original_leg_climb_m": 3726,
+  "replanned_leg_distance_km": 25.5,
+  "replanned_leg_climb_m": 3740,
+  "blocked_cells_on_replanned_path": 0,
+  "incremental_replan_states_expanded": 390,
+  "incremental_replan_updates": 3318,
+  "full_replan_states_expanded": 9231,
+  "full_replan_updates": 73422,
+  "incremental_cost_to_go": 68.55,
+  "fresh_cost_to_go": 68.55
+ },
+ "note": "Waypoints are Field D* path points (corner coordinates converted to lon/lat). Danger-spot positions are approximate (see astar_route.py). Slope limits: over 25 deg blocked, 12-25 deg costs extra (JPL rover limits). Field D* uses one cost per cell, so the A* climb penalty is not in its cost model. Start/goal are snapped to the top-left corner of the stop's cell for the search (at most half a cell); the path still starts and ends at the true stop positions. Leg distances are rounded individually; the total is rounded from the unrounded sum."
+}
