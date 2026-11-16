@@ -1,0 +1,42 @@
+{
+ "note": "Small demo log. 4 obstacles. OBS-01 and OBS-02 were checked by eye on the Mars Trek map (CTX mosaic + HiRISE layers). OBS-03 is the steep climb itself, measured from real MOLA heights; it is scored by the climb rule, not counted as a danger crossed. Ground check: Curiosity Front Hazcam photos, sol 1000 (May 30, 2015), show broken rock slabs and scattered rocks in Gale Crater \u2014 the same kind of ground as OBS-02. Not a full survey. OBS-04 was learned by the Field D* replan demo: a fresh rock field it found and remembered, so the next walk avoids it from the start.",
+ "obstacles": [
+  {
+   "confidence": "high",
+   "confidence_note": "Clearly visible on the map.",
+   "id": "OBS-01",
+   "location": "South of Mount Sharp, Gale Crater",
+   "source": "Mars Trek map (CTX mosaic + HiRISE layers)",
+   "type": "crater"
+  },
+  {
+   "confidence": "medium",
+   "confidence_note": "Rough ground visible; exact rock sizes need closer photos.",
+   "id": "OBS-02",
+   "location": "East of Mount Sharp, Gale Crater",
+   "source": "Mars Trek map (CTX mosaic + HiRISE layers)",
+   "type": "rough ground, rocks"
+  },
+  {
+   "confidence": "high",
+   "confidence_note": "Measured from real NASA height data: the route climbs 4,991 m.",
+   "id": "OBS-03",
+   "location": "Route, Stop 1 to Mount Sharp, Gale Crater",
+   "scored_as": "climb rule, not danger count",
+   "source": "MOLA heights, measured by us (elevation.json)",
+   "type": "steep slope"
+  },
+  {
+   "confidence": "Demo",
+   "confidence_note": "Simulated sighting from the replan demo, not a real observation.",
+   "id": "OBS-04",
+   "lat": -4.8779,
+   "location": "Boxwork to High ground, Gale Crater (137.5885E, 4.8779S)",
+   "lon_e": 137.5885,
+   "radius_m": 1000.0,
+   "source": "Field D* replan demo \u2014 simulated sighting, shows how the map would learn from a real sighting",
+   "type": "Fresh rock field, found during the walk"
+  }
+ ],
+ "project": "Marswalk Coach \u2014 team spacebuzz"
+}
